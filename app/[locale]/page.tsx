@@ -302,16 +302,6 @@ export default async function Home() {
                     {t("lead3")}
                   </li>
                 </ul>
-                <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
-                  <h3 className="text-sm uppercase tracking-[0.2em] text-slate-400">
-                    {t("referenceTitle")}
-                  </h3>
-                  <ul className="mt-3 space-y-2 text-sm text-slate-300">
-                    <li>{t("ref1")}</li>
-                    <li>{t("ref2")}</li>
-                    <li>{t("ref3")}</li>
-                  </ul>
-                </div>
               </div>
             </div>
           </section>
